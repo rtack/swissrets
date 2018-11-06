@@ -3,6 +3,8 @@ description: A swiss real estate transfer standard
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-slate
-
+github:
+  zip_url: https://github.com/qualipool/swissrets/archive/master.zip
+  tar_url: https://api.github.com/repos/qualipool/swissrets/tarball/master
 gems:
   - jekyll-mentions
