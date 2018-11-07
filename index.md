@@ -2,11 +2,15 @@
 [![Build Status](https://travis-ci.com/qualipool/swissrets.svg?branch=master)](https://travis-ci.com/qualipool/swissrets)
 [![GitHub](https://img.shields.io/github/license/qualipool/swissrets.svg)](https://github.com/qualipool/swissrets/blob/master/LICENSE.md)
 
-SwissRETS is a swiss real estate transfer standard that aims to solve the age old data transfer between real estate software and respective online services.
+## Purpose
+
+SwissRETS is a swiss real estate transfer standard. It aims to be a consistent and flexible data transfer between real estate software and respective online services, in order to replace old formats like the widely used [IDX](https://en.wikipedia.org/wiki/Internet_Data_Exchange) in Switzerland.
 
 SwissRETS is currently within the suggestion stage.
 
 ## Using SwissRETS
+1. [The schema](https://github.com/qualipool/swissrets/blob/master/schema/schema.xsd)  
+   XML schema definition of SwissRETS
 1. [Base Structure](Base-structure)  
    Describes the overall structure of the XML
 1. [Enumerations](Enumerations)  
