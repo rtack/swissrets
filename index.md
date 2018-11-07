@@ -1,4 +1,10 @@
-Welcome to SwissRETS documentation
+[![GitHub package version](https://img.shields.io/github/package-json/v/qualipool/swissrets.svg)](https://github.com/qualipool/swissrets/releases)
+[![Build Status](https://travis-ci.com/qualipool/swissrets.svg?branch=master)](https://travis-ci.com/qualipool/swissrets)
+[![GitHub](https://img.shields.io/github/license/qualipool/swissrets.svg)](https://github.com/qualipool/swissrets/blob/master/LICENSE.md)
+
+SwissRETS is a swiss real estate transfer standard that aims to solve the age old data transfer between real estate software and respective online services.
+
+SwissRETS is currently within the suggestion stage.
 
 ## Using SwissRETS
 1. [Base Structure](Base-structure)  
