@@ -1,4 +1,4 @@
-[**Back to home**](./)
+[**◀ Home**](./)
 
 
 General questions and answers that have not found their place within the documentation yet get placed here.
