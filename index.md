@@ -20,6 +20,14 @@ SwissRETS is currently within the suggestion stage.
 1. [FAQ](FAQ)  
    Answers for frequently asked questions 
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## Submitting a change request or an idea
 1. Go to the [new issue page](https://github.com/qualipool/swissrets/issues/new/choose)
 1. Make sure you fill only a **single topic** per issue
