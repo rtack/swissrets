@@ -14,7 +14,7 @@ SwissRETS is currently within the suggestion stage.
 1. [Base Structure](Base-structure)  
    Describes the overall structure of the XML
 1. [Enumerations](Enumerations.html)  
-   A list of options, properties can have. Categories, Utilities, Features, and NumericValues.
+   A list of options that properties can have, such as: Categories, Utilities, Features, and NumericValues.
 1. [Changelog](https://github.com/qualipool/swissrets/releases)  
    Complete release history and migration paths for braking changes
 1. [FAQ](FAQ.html)  
