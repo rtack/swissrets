@@ -1,4 +1,4 @@
-[**◀ Home**](./)
+[**Back to home**](./)
 
 
 The XML should always contain the full representation of a companies portfolio.

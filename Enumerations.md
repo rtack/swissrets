@@ -1,4 +1,4 @@
-[**◀ Home**](./)
+[**Back to home**](./)
 
 
 To avoid creating an overcomplex XML by defining hundreds of elements, SwissRETS ops to use certain enumeration groups to simplify the export/import process.
