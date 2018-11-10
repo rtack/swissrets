@@ -1,4 +1,6 @@
-[Back to home](./)
+[**Back to home**](./)
+
+
 The XML should always contain the full representation of a companies portfolio.
 
 The XML may contain `<projects>` and/or `<properties>`. The omission of these tags indicate that the information is **NOT SPECIFIED** and should thereby be **ignored**. A empty (but present) `<projects>` of `<properties>` tag indicates that there are no projects/properties available and any existing properties/projects should therefore be **DELETED**.

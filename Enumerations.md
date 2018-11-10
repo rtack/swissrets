@@ -1,4 +1,6 @@
-[Back to home](./)
+[**Back to home**](./)
+
+
 To avoid creating an overcomplex XML by defining hundreds of elements, SwissRETS ops to use certain enumeration groups to simplify the export/import process.
 
 However, these definitions need to be listed and explained in more detail outside of the realm of the xsd, to make clear what these Settings actually mean and which `slug`s can be parsed.
