@@ -9,10 +9,8 @@ SwissRETS is a swiss real estate transaction standard. It's main goal ist to sta
 SwissRETS is currently within the suggestion stage.
 
 ## Using SwissRETS
-1. [The schema](https://github.com/qualipool/swissrets/blob/master/schema/schema.xsd)  
-   XML schema definition of SwissRETS
-1. [Documentation](https://github.com/qualipool/swissrets/blob/master/schema/schema.xsd)  
-   Generated documentation for exploring the schema interactively.
+1. [Documentation](https://swissrets.ch/docs/noNamespace/)  
+   Generated documentation for exploring [the schema](https://github.com/qualipool/swissrets/blob/master/schema/schema.xsd) interactively.
 1. [Base Structure](Base-structure)  
    Describes the overall structure of the XML
 1. [Enumerations](Enumerations.html)  
