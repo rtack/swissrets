@@ -9,18 +9,17 @@ SwissRETS is a swiss real estate transaction standard. It's main goal ist to sta
 SwissRETS is currently within the suggestion stage.
 
 ## Using SwissRETS
-1. Generated [documentation](https://swissrets.ch/docs/noNamespace/)
-1. The [schema/schema.xsd](https://github.com/qualipool/swissrets/blob/master/schema/schema.xsd)
-1. Details documentation
+1. [XSD docs](https://swissrets.ch/docs/noNamespace/) generated from the schema
+1. [The schema.xsd](https://github.com/qualipool/swissrets/blob/master/schema/schema.xsd)
+1. Details
    - [Utilizations](./Utilizations) - main groups of properties
    - [Categories](./Categories) - sub groups of properties
-   - TODO [Availability](./Availability) of properties
+   - TODO [Availability](./Availability) - vacancy of properties
    - TODO [SIA-areas](./SIA-areas) - area definitions according to [SIA 416](http://www.svkg.ch/)
+   - [Usage FAQ](FAQ)
 1. Check out the [examples](https://github.com/qualipool/swissrets/tree/master/examples)
 1. [Changelog](https://github.com/qualipool/swissrets/releases)  
    Complete release history and migration paths for braking changes
-1. [FAQ](FAQ.html)  
-   Answers for frequently asked questions 
 
 ## Submitting a change request or an idea
 1. Go to the [new issue page](https://github.com/qualipool/swissrets/issues/new/choose)
