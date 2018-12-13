@@ -9,12 +9,14 @@ SwissRETS is a swiss real estate transaction standard. It's main goal ist to sta
 SwissRETS is currently within the suggestion stage.
 
 ## Using SwissRETS
-1. [Documentation](https://swissrets.ch/docs/noNamespace/)  
-   Generated documentation for exploring [the schema](https://github.com/qualipool/swissrets/blob/master/schema/schema.xsd) interactively.
-1. [Base Structure](Base-structure)  
-   Describes the overall structure of the XML
-1. [Enumerations](Enumerations.html)  
-   A list of options that properties can have, such as: Categories, Utilities, Features, and NumericValues.
+1. Generated [documentation](https://swissrets.ch/docs/noNamespace/)
+1. The [schema/schema.xsd](https://github.com/qualipool/swissrets/blob/master/schema/schema.xsd)
+1. Details documentation
+   - [Utilizations](./Utilizations) - main groups of properties
+   - [Categories](./Categories) - sub groups of properties
+   - TODO [Availability](./Availability) of properties
+   - TODO [SIA-areas](./SIA-areas) - area definitions according to [SIA 416](http://www.svkg.ch/)
+1. Check out the [examples](https://github.com/qualipool/swissrets/tree/master/examples)
 1. [Changelog](https://github.com/qualipool/swissrets/releases)  
    Complete release history and migration paths for braking changes
 1. [FAQ](FAQ.html)  
@@ -24,7 +26,7 @@ SwissRETS is currently within the suggestion stage.
 1. Go to the [new issue page](https://github.com/qualipool/swissrets/issues/new/choose)
 1. Make sure you fill only a **single topic** per issue
 1. Choose your template
-1. Please use english
+1. Please write in English
 1. Submit
 
 ## Contributing
